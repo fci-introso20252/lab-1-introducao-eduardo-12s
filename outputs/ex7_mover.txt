@@ -1,0 +1,17 @@
+total 28
+drwxrwxrwx+ 3 codespace codespace 4096 Sep 26 01:40 .
+drwxrwxrwx+ 7 codespace root      4096 Sep 26 01:36 ..
+-rw-rw-rw-  1 codespace codespace    0 Sep 26 01:37 arquivo_renomeado.txt]
+-rw-rw-rw-  1 codespace codespace 1270 Sep 26 01:39 estrutura.txt
+-rw-rw-rw-  1 codespace codespace   24 Sep 26 01:38 multiplas.txt
+-rw-rw-rw-  1 codespace codespace   55 Sep 26 01:38 primeiro.txt
+drwxrwxrwx+ 3 codespace codespace 4096 Sep 26 01:40 subdir1
+-rw-rw-rw-  1 codespace codespace  927 Sep 26 01:38 teste1.txt
+total 24
+drwxrwxrwx+ 3 codespace codespace 4096 Sep 26 01:40 .
+drwxrwxrwx+ 3 codespace codespace 4096 Sep 26 01:40 ..
+-rw-rw-rw-  1 codespace codespace    0 Sep 26 01:37 arquivo2.txt
+-rw-rw-rw-  1 codespace codespace 1590 Sep 26 01:39 origem.txt
+drwxrwxrwx+ 2 codespace codespace 4096 Sep 26 01:37 subdir2]
+-rw-rw-rw-  1 codespace codespace  927 Sep 26 01:39 teste1.txt
+-rw-rw-rw-  1 codespace codespace 1270 Sep 26 01:39 teste2.txt

@@ -1,0 +1,6 @@
+/workspaces/lab-1-introducao-eduardo-12s/exemplos
+/workspaces/lab-1-introducao-eduardo-12s
+/workspaces/lab-1-introducao-eduardo-12s/docs
+/workspaces/lab-1-introducao-eduardo-12s/outputs
+/workspaces/lab-1-introducao-eduardo-12s
+/workspaces/lab-1-introducao-eduardo-12s
